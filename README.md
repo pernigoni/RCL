@@ -5,11 +5,11 @@
 
 **Assignment-3** ❤️ Simulazione Laboratorio di Informatica
 
-**Assignment-4** ❤️ Compressione di file
+**Assignment-4** ❤️ Compressione di File
 
 **Assignment-5** ❤️ Conteggio Occorrenze
 
-**Assignment-6** ❤️ Analisi di un weblog
+**Assignment-6** ❤️ Analisi di un Weblog
 
 **Assignment-7** ❤️ Dungeon Adventures
 
