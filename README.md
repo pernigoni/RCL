@@ -1,9 +1,9 @@
 # Reti di Calcolatori e Laboratorio
-**Assignment-1** Non è tutto oro quel che luccica
+**Assignment-1** ❤️ Non è tutto oro quel che luccica
 
-**Assignment-2** Simulazione Ufficio Postale
+**Assignment-2** ❤️ Simulazione Ufficio Postale
 
-**Assignment-3** - Simulazione Laboratorio di Informatica
+**Assignment-3** ❤️ Simulazione Laboratorio di Informatica
 
 **Assignment-4** - 
 
