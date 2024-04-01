@@ -5,13 +5,13 @@
 
 **Assignment-3** ❤️ Simulazione Laboratorio di Informatica
 
-**Assignment-4** ❤️ 
+**Assignment-4** ❤️ Compressione di file
 
 **Assignment-5** ❤️ Conteggio Occorrenze
 
-**Assignment-6** ❤️ Analisi di un weblog (MANCANTE)
+**Assignment-6** ❤️ Analisi di un weblog
 
-**Assignment-7** ❤️ 
+**Assignment-7** ❤️ Dungeon Adventures
 
 **Assignment-8** ❤️ Valutazione strategie I/O bufferizzato
 
