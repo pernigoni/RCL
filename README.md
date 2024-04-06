@@ -17,8 +17,4 @@
 
 **Assignment-9** ❤️ NIO Echo Server
 
-**Assignment-10** ❤️
-
-**Assignment-11** ❤️
-
-**Assignment-12** ❤️
+**Assignment-10** ❤️ Java Pinger
