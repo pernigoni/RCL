@@ -1,5 +1,5 @@
 # Reti di Calcolatori e Laboratorio
-**Assignment-1** ❤️ Non è tutto oro quel che luccica 💰
+**Assignment-1** ❤️ Non è tutto oro quel che luccica 👑
 
 **Assignment-2** ❤️ Simulazione Ufficio Postale ✉️
 
