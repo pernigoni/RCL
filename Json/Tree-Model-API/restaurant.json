@@ -1,0 +1,17 @@
+{
+	"name": "AllWhatYouCanEat",
+	"menu": [
+	{
+		"description": "Spaghetti",
+		"price": 9.99
+	},
+	{
+		"description": "Steak",
+		"price": 14.99
+	},
+	{
+		"description": "Spaghetti",
+		"price": 6.99
+	}
+	]
+}
