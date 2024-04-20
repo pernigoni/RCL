@@ -45,7 +45,7 @@ public class GreenHouseScheduler
 		{ System.out.println("Bing!"); }
 	}
 
-	public class Terminate implements Runnable
+	private class Terminate implements Runnable
 	{
 		ScheduledThreadPoolExecutor scheduler;
 
