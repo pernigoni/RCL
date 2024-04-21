@@ -18,5 +18,5 @@ ciascun carattere ed è formattato come segue:
 <carattere1>,<numero di occorrenze>
 <carattere2>,<numero di occorrenze>
 ...
-<caratteren>,<numero di occorrenze>
+<carattereN>,<numero di occorrenze>
 ```
