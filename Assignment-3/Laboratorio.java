@@ -137,7 +137,7 @@ public class Laboratorio
 	{
 		if(args.length < 3)
 		{
-			System.err.println("usage: Laboratorio " + "<numProf> <numTesisti> <numStudenti>");
+			System.err.println("Usage: Laboratorio <numProf> <numTesisti> <numStudenti>");
 			System.exit(1);
 		}
 		
