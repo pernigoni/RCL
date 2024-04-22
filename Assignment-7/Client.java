@@ -21,7 +21,7 @@ public class Client
 	public static String hostname; // nome host del server (localhost)
 	public static int port; // porta del server (12000)
 
-	// socket e relativi stream di input/output.
+	// socket e relativi stream di input/output
 	private static Scanner scanner = new Scanner(System.in);
 	private static Socket socket;
 	private static BufferedReader in;
