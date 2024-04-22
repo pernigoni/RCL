@@ -11,7 +11,7 @@ public class Element implements Comparable<Element>
 		this.line =line;
 	}
 
-	// confronta l'elemento corrente con il parametro
+	// confronta l'elemento corrente con il parametro, serve per la PriorityBlockingQueue
 	@Override
 	public int compareTo(Element o)
 	{
