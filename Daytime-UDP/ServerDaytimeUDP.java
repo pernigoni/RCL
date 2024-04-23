@@ -23,7 +23,7 @@ public class ServerDaytimeUDP
 					// creo un pacchetto in cui ricevere la richiesta del client
 					DatagramPacket request = new DatagramPacket(new byte[1024], 1024);
 					socket.receive(request);
-					System.err.println("Ricevuto un pacchetto da " + request.getAddress() + " " + request.getPort());
+					System.out.println("Ricevuto un pacchetto da " + request.getAddress() + " " + request.getPort());
 
 					// creo un pacchetto di risposta
 					String daytime = new Date().toString();
