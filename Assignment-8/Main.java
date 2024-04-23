@@ -104,7 +104,7 @@ public class Main
 	{
 		long start = System.nanoTime();
 		/* NOTA: in questo metodo e nei successivi, il file di input verrà copiato in un file temporaneo
-		 * che sarà automaticamente cancellato al termine della JVM. */
+		 * che sarà automaticamente cancellato al termine dalla JVM. */
 		File outputFile = File.createTempFile(tempFile, null);
 		outputFile.deleteOnExit();
 
