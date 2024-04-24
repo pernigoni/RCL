@@ -1,4 +1,2 @@
-* Java echo server (sequenziale)
-* C echo client
-* Python echo client
-* OCaml echo client
+# Java Echo Server
+# C/Python/OCaml Echo Client
