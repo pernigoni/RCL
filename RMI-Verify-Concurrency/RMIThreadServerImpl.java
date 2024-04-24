@@ -93,11 +93,11 @@ Server leaving critical section - RMI TCP Connection(4)-127.0.0.1
 Server leaving critical section - RMI TCP Connection(6)-127.0.0.1
 
 > java RMIThreadClient
-Client before critical section - 1300
-Client after critical section - 287
-
-> java RMIThreadClient
 Client before critical section - 0
 Client after critical section - 1583
+
+> java RMIThreadClient
+Client before critical section - 1300
+Client after critical section - 287
 
 */
