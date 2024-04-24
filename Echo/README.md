@@ -1,2 +1,2 @@
-# Java Echo Server
-# C/Python/OCaml Echo Client
+# Java - Echo Server
+# C, Python, OCaml - Echo Client
