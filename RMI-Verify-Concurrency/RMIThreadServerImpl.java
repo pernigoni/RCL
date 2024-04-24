@@ -14,7 +14,13 @@ public class RMIThreadServerImpl extends UnicastRemoteObject implements RMIThrea
 		/* Questo è un altro modo per esportare l'oggetto.
 		 * 
 		 * Bisogna aver definito una classe che implementi i metodi dell'interfaccia remota ed
-		 * ESTENDA LA CLASSE UnicastRemoteObject. */
+		 * ESTENDA LA CLASSE UnicastRemoteObject.
+   		 * 
+		 * Il costruttore di UnicastRemoteObject:
+		 * * Esporta automaticamente l'oggetto remoto.
+		 * * Crea automaticamente un server socket per ricevere le invocazioni di metodi remoti.
+		 * * Effettua l'overriding di alcuni metodi della classe Object (equals, toString...)
+   		 *   per adattarli al comportamento degli oggetti remoti. */
 	}
 
 	public void update()
