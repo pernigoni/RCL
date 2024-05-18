@@ -7,7 +7,7 @@ import java.util.concurrent.*;
 
 public class UfficioChiusura
 {
-	// queuePrimaSala --> coda illimitata della prima sala (gestita esplicitamente del programma)
+	// queuePrimaSala --> coda illimitata della prima sala (gestita esplicitamente dal programma)
 	// queueSportelli --> coda limitata della seconda sala davanti agli sportelli (implicita del pool)
 
 	public static final int numeroSportelli = 4; // numero di sportelli dell'ufficio
