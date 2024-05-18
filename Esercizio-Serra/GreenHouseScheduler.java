@@ -92,7 +92,8 @@ public class GreenHouseScheduler
 		{
 			int seconds = night.toSecondOfDay() - now.toSecondOfDay();
 			repeat(scheduler, gh.new ThermostatDay(), 0, interval, TimeUnit.SECONDS);
-			repeat(scheduler, gh.new ThermostatNight(), seconds, interval, TimeUnit.SECONDS);}
+			repeat(scheduler, gh.new ThermostatNight(), seconds, interval, TimeUnit.SECONDS);
+		}
 		else
 		{
 			int seconds = morning.toSecondOfDay() - now.toSecondOfDay();
