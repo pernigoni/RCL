@@ -56,6 +56,8 @@ public class UfficioChiusura
 			{
 				/* Se entro qui significa che la coda davanti agli sportelli (ovvero la coda del pool) è
 				 * piena. Aspetto un certo intervallo di tempo affinché si svuoti e poi ritendo. */
+
+				// ATTESA ATTIVA
 				
 				System.out.printf("Coda sportelli piena. Il cliente con id=%d Resta in attesa.\n", p.id);
 				try
