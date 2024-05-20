@@ -8,7 +8,7 @@ public class Element implements Comparable<Element>
 	public Element(int id, String line)
 	{
 		this.id = id;
-		this.line =line;
+		this.line = line;
 	}
 
 	// confronta l'elemento corrente con il parametro, serve per la PriorityBlockingQueue
