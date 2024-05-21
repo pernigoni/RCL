@@ -15,8 +15,7 @@ public class Client
 		int port = Integer.parseInt(args[1]);
 
 		DataOutputStream os;
-		try(
-			Socket s = new Socket(host, port); )
+		try(Socket s = new Socket(host, port))
 		{
 			os = new DataOutputStream(s.getOutputStream());
 			List<RestaurantMenuItem> menu = new ArrayList<>();
