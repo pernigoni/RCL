@@ -14,8 +14,7 @@ public class Server
 			return ;
 		int port = Integer.parseInt(args[0]);
 
-		try(
-			ServerSocket s= new ServerSocket(port); )
+		try(ServerSocket s = new ServerSocket(port))
 		{
 			DataInputStream is = new DataInputStream(s.accept().getInputStream());
 			System.out.println("Accettato");
@@ -23,7 +22,7 @@ public class Server
 			String json = is.readUTF();
 			
 			Gson gson = new Gson();
-			Type restaurantType =new TypeToken<RestaurantWithMenu>() {}.getType();
+			Type restaurantType = new TypeToken<RestaurantWithMenu>() {}.getType();
 			RestaurantWithMenu rm = gson.fromJson(json, restaurantType);
 			System.out.println(rm.name + " " + rm.menu.toString());
 		}
