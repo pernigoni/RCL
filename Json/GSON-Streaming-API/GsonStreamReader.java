@@ -47,3 +47,14 @@ public class GsonStreamReader
 		}
 	}
 }
+
+/* 
+STAMPA PRODOTTA DAL PROGRAMMA
+
+Steve
+Jobs
+1955
+	JAVA
+ 	Python
+	Rust
+*/
