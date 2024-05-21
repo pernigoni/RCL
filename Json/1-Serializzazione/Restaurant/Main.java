@@ -8,7 +8,7 @@ public class Main
 		List<RestaurantMenuItem> menu = new ArrayList<>();
 		menu.add(new RestaurantMenuItem("Spaghetti", 9.99f));
 		menu.add(new RestaurantMenuItem("Steak", 14.99f));
-		menu.add(new RestaurantMenuItem("Spaghetti", 6.99f));
+		menu.add(new RestaurantMenuItem("Salad", 6.99f));
 
 		RestaurantWithMenu restaurant = new RestaurantWithMenu("AllWhatYouCanEat", menu);
 
