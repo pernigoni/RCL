@@ -23,6 +23,8 @@ public class RMIThreadServerImpl extends UnicastRemoteObject implements RMIThrea
    		 *   per adattarli al comportamento degli oggetti remoti. */
 	}
 
+	// eliminare race condition
+	// public synchronized void update() oppure usare Concurrent Collections
 	public void update()
 	{
 		int i;
