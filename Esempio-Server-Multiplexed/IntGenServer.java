@@ -156,7 +156,7 @@ public class IntGenServer
 
 						// hasRemaining() dice quanti byte ci sono tra position e limit
 						// quindi se c'è ancora qualcosa nella parte del buffer significativa da scrivere
-						if(!output.hasRemaining()) // da questo if potrei passarci più volte
+						if(!output.hasRemaining())
 						{
 							// se ho scritto 777, con rewind() rileggo il 777
 							output.rewind();
